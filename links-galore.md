@@ -10,7 +10,8 @@ https://www.petside.com/infinite-cat/
 - Pointer Pointer - A website that shows you a picture of a person pointing at your cursor
 https://pointerpointer.com/
 
-- The Falling Sand Game - A website that lets you play with virtual sand, water, and other elements https://boredhumans.com/falling_sand.php
+- The Falling Sand Game - A website that lets you play with virtual sand, water and other elements
+https://boredhumans.com/falling_sand.php
 
 - Geoguessr - A website that takes you on a virtual geography scavenger hunt
 https://www.geoguessr.com/

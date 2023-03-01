@@ -10,8 +10,7 @@ https://www.petside.com/infinite-cat/
 - Pointer Pointer - A website that shows you a picture of a person pointing at your cursor
 https://pointerpointer.com/
 
-- The Falling Sand Game - A website that lets you play with virtual sand, water, and other elements
-https://boredhumans.com/falling_sand.php
+- The Falling Sand Game - A website that lets you play with virtual sand, water, and other elements https://boredhumans.com/falling_sand.php
 
 - Geoguessr - A website that takes you on a virtual geography scavenger hunt
 https://www.geoguessr.com/
@@ -88,8 +87,7 @@ https://platform.openai.com/ai-text-classifier
 - There is an AI for that -  The  website has all the best AI for your task
 https://theresanaiforthat.com/
 
-- Product Hunt -  The  website that can help you with your products  
-https://www.producthunt.com/
+- Product Hunt -  The  website that can help you with your products https://www.producthunt.com/
 
 - Space desk -  Use your phone as secondary monitor!
 https://www.spacedesk.net/

@@ -1,3 +1,7 @@
+## A Collation of Websites I Came Across...
+
+### This web explorer's trove might miss some of the interesting links I will try and update frequently -- sorry !
+
 - The Useless Web - A website that takes you to random, pointless websites
 https://theuselessweb.com/
 
